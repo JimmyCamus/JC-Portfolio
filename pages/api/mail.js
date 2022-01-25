@@ -10,8 +10,8 @@ export default function handler(req, res) {
     Message: ${body.message}
   `;
   const data = {
-    to: process.env.TO_EMAIL,
-    from: process.env.FROM_EMAIL,
+    to: "jeremy.camus@alumnos.ucn.cl",
+    from: "jeremy.camus.varela@gmail.com",
     subject: "New portfolio message",
     text: message,
     html: message.replace(/\r\n/g, "<br>"),
