@@ -1,0 +1,42 @@
+[
+  {
+    "key": "1",
+    "name": "Free games finder",
+    "description": "This project is about being able to search and see the details of any free game on the internet, either browser or Windows. The options to filter the searches are by their categories or platform.",
+    "image": "https://i.ibb.co/RDsB1H3/free-games-finder.jpg",
+    "href": "https://next-js-free-games-finder.vercel.app",
+    "github": "https://github.com/JimmyCamus/Next-js-free-games-finder",
+    "technologies": "HTML, CSS, NextJS",
+    "alt": "Free games finder, find any free to play games."
+  },
+  {
+    "key": "2",
+    "name": "Weather App",
+    "description": "This project provides the weather forecast of a certain city, which can be searched in a text field, covering around 200,000 cities, using the OpenWeather API.",
+    "image": "https://i.ibb.co/fHkChxD/weather-app.jpg" ,
+    "href": "https://nextjs-weather-app-91q74gwrp-jeremycamusvarela-gmailcom.vercel.app",
+    "github": "https://github.com/JimmyCamus/NEXTJS-weather-app",
+    "technologies": "HTML, CSS, NextJS",
+    "alt": "Weather app, read the weather forecast for any city in the world."
+  },
+  {
+    "key": "3",
+    "name": "Compound interest calculator",
+    "description": "This project allows you to calculate compound interest using the following parameters: initial deposit, annual contribution, years and the interest rate.",
+    "image": "https://i.ibb.co/9hqTWsB/Compound-Interest-Calculator.jpg",
+    "href": "https://jimmycamus.github.io/REACT-Compound-Interest-Calculator/",
+    "github": "https://github.com/JimmyCamus/REACT-Compound-Interest-Calculator",
+    "technologies": "HTML, CSS, ReactJS",
+    "alt": "Calculate compound interest depending on your needs."
+  },
+  {
+    "key": "4",
+    "name": "Image finder",
+    "description": "This project is responsible for providing images according to what the user wants to search for. All images are taken from Unsplash.",
+    "image": "https://i.ibb.co/ZXtL9py/Image-finder.jpg" ,
+    "href": "https://jimmycamus.github.io/REACT-search-photos-app/",
+    "github": "https://github.com/JimmyCamus/REACT-search-photos-app",
+    "technologies": "HTML, CSS, ReactJS",
+    "alt": "Find images of anything you're looking for."
+  }
+]
