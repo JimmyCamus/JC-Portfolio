@@ -1,5 +1,5 @@
 import StyledNavbar from "./styled/StyledNavbar";
-import StyledH1 from "./styled/StyledH1";
+import Logo from "./Logo";
 import ButtonSection from "./ButtonSection";
 
 const Navbar = ({ theme, firstButton, secondButton }) => {
@@ -7,9 +7,7 @@ const Navbar = ({ theme, firstButton, secondButton }) => {
     <div>
       <StyledNavbar backgroundColor={theme.backgroundColor}>
         <div>
-          <StyledH1 color={theme.textColor} fontSize="30px" rFontSize="30px">
-            JC
-          </StyledH1>
+          <Logo theme={theme} />
         </div>
         <div>
           <ButtonSection
