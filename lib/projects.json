@@ -1,27 +1,32 @@
 [
-
   {
-    "key": "1",
+    "name": "Library API",
+    "description": "This project is a library api which allows managing users, books and their comments. It also has the option to upload files enabled.",
+    "image": "https://res.cloudinary.com/dbmlv4oij/image/upload/v1647461706/NODE_API_r8muxg.jpg",
+    "href": "https://documenter.getpostman.com/view/19464642/UVsHUTom",
+    "github": "https://github.com/JimmyCamus/NODEJS-Library-API",
+    "technologies": "Node.js, Express, MongoDB",
+    "alt": "Libary API"
+  },
+  {
     "name": "eCommerce App",
     "description": "This project is an ecommerce in which one can log in to add products to the shopping cart and then buy the products. It also has an administration panel, where you can manage the products. The admin credentials are: email: admin@gmail.com password: admin12",
-    "image": "https://i.ibb.co/vQzjh3p/e-Commerce-App.jpg"  ,
+    "image": "https://i.ibb.co/vQzjh3p/e-Commerce-App.jpg",
     "href": "https://next-js-e-commerce-app.vercel.app",
     "github": "https://github.com/JimmyCamus/NEXT-js-eCommerce-App",
     "technologies": "HTML, CSS, Next JS,",
     "alt": "eCommerce app"
   },
   {
-    "key": "2",
     "name": "eCommerce API",
     "description": "This project is the API of an eCommerce, it has the following functionalities: 1. User authentication. 2. Profile administration. 3. User roles. 4. Add, Edit and Disable products. 5. Add and Remove products from the shopping cart. 6. Make a purchase. 7. Manage the products if you are the admin.",
-    "image": "https://i.ibb.co/zZ4NK1T/e-Commerce-API.jpg"   ,
+    "image": "https://i.ibb.co/zZ4NK1T/e-Commerce-API.jpg",
     "href": "https://next-js-e-commerce-app.vercel.app",
     "github": "https://github.com/JimmyCamus/LARAVEL-eCommerce-API",
     "technologies": "Laravel, mySQL",
     "alt": "eCommerce api"
   },
   {
-    "key": "3",
     "name": "Free games finder",
     "description": "This project is about being able to search and see the details of any free game on the internet, either browser or Windows. The options to filter the searches are by their categories or platform.",
     "image": "https://i.ibb.co/RDsB1H3/free-games-finder.jpg",
@@ -31,27 +36,24 @@
     "alt": "Free games finder, find any free to play games."
   },
   {
-    "key": "4",
     "name": "Todo App",
     "description": "This project allows you to create an account through a registration form, to be able to login and create todos corresponding to the user.",
-    "image": "https://i.ibb.co/5T3hs7q/Todo-app.jpg" ,
+    "image": "https://i.ibb.co/5T3hs7q/Todo-app.jpg",
     "href": "https://jimmy-cammus-todo-app.herokuapp.com",
     "github": "https://github.com/JimmyCamus/Laravel-Todo-App",
     "technologies": "Laravel, mySQL, HTML, CSS, ReactJS",
     "alt": "Todo app to organize your life."
   },
   {
-    "key": "5",
     "name": "Weather App",
     "description": "This project provides the weather forecast of a certain city, which can be searched in a text field, covering around 200,000 cities, using the OpenWeather API.",
-    "image": "https://i.ibb.co/fHkChxD/weather-app.jpg" ,
+    "image": "https://i.ibb.co/fHkChxD/weather-app.jpg",
     "href": "https://nextjs-weather-app-91q74gwrp-jeremycamusvarela-gmailcom.vercel.app",
     "github": "https://github.com/JimmyCamus/NEXTJS-weather-app",
     "technologies": "HTML, CSS, NextJS",
     "alt": "Weather app, read the weather forecast for any city in the world."
   },
   {
-    "key": "6",
     "name": "Compound interest calculator",
     "description": "This project allows you to calculate compound interest using the following parameters: initial deposit, annual contribution, years and the interest rate.",
     "image": "https://i.ibb.co/9hqTWsB/Compound-Interest-Calculator.jpg",
@@ -61,10 +63,9 @@
     "alt": "Calculate compound interest depending on your needs."
   },
   {
-    "key": "7",
     "name": "Image finder",
     "description": "This project is responsible for providing images according to what the user wants to search for. All images are taken from Unsplash.",
-    "image": "https://i.ibb.co/ZXtL9py/Image-finder.jpg" ,
+    "image": "https://i.ibb.co/ZXtL9py/Image-finder.jpg",
     "href": "https://jimmycamus.github.io/REACT-search-photos-app/",
     "github": "https://github.com/JimmyCamus/REACT-search-photos-app",
     "technologies": "HTML, CSS, ReactJS",

@@ -10,9 +10,9 @@ const ProjectsList = ({ theme }) => {
   return (
     <div>
       <StyledContainer flexDirection="row" width="100%">
-        {projects.map((item) => (
+        {projects.map((item, index) => (
           <StyledCard
-            key={item.key}
+            key={index}
             backgroundColor={theme.backgroundColor}
             rBorder={`1px solid ${theme.primaryColor}`}
             display="flex"
