@@ -1,5 +1,14 @@
 [
   {
+    "name": "Portfolio",
+    "description": "This is the project that you are currently viewing, where I make myself known by specifying my skills and showing my projects, as well as giving you the possibility to contact me by filling out the contact form if you like my work.",
+    "image": "https://res.cloudinary.com/dbmlv4oij/image/upload/v1647524002/Portfolio_a9ohzj.jpg",
+    "href": "/",
+    "github": "https://github.com/JimmyCamus/JC-Portfolio",
+    "technologies": "HTML, CSS, NextJS",
+    "alt": "Portfolio"
+  },
+  {
     "name": "Library API",
     "description": "This project is a library api which allows managing users, books and their comments. It also has the option to upload files enabled.",
     "image": "https://res.cloudinary.com/dbmlv4oij/image/upload/v1647461706/NODE_API_r8muxg.jpg",
@@ -14,7 +23,7 @@
     "image": "https://i.ibb.co/vQzjh3p/e-Commerce-App.jpg",
     "href": "https://next-js-e-commerce-app.vercel.app",
     "github": "https://github.com/JimmyCamus/NEXT-js-eCommerce-App",
-    "technologies": "HTML, CSS, Next JS,",
+    "technologies": "HTML, CSS, NextJS,",
     "alt": "eCommerce app"
   },
   {
@@ -23,7 +32,7 @@
     "image": "https://i.ibb.co/zZ4NK1T/e-Commerce-API.jpg",
     "href": "https://next-js-e-commerce-app.vercel.app",
     "github": "https://github.com/JimmyCamus/LARAVEL-eCommerce-API",
-    "technologies": "Laravel, mySQL",
+    "technologies": "Laravel, MySQL",
     "alt": "eCommerce api"
   },
   {
@@ -41,7 +50,7 @@
     "image": "https://i.ibb.co/5T3hs7q/Todo-app.jpg",
     "href": "https://jimmy-cammus-todo-app.herokuapp.com",
     "github": "https://github.com/JimmyCamus/Laravel-Todo-App",
-    "technologies": "Laravel, mySQL, HTML, CSS, ReactJS",
+    "technologies": "Laravel, MySQL, HTML, CSS, ReactJS",
     "alt": "Todo app to organize your life."
   },
   {
