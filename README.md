@@ -21,6 +21,7 @@ https://jc-portfolio.vercel.app
 
 ## Features
 
+- Hero
 - About Me section
 - Projects list
 - Contact form
